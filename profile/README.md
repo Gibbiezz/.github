@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Alt Text](gibbiezlogo.png)
+
 # Project Members
 
 | Member ID     | Name                    | Role              |
