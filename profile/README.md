@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alt Text](gibbiezlogo.png)
+![Alt Text](gibbiezlogo2.png)
 
 # Project Members
 
