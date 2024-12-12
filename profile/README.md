@@ -1,6 +1,8 @@
-## Hi there 👋
+## Gibbiez
 
 ![Alt Text](gibbiezlogo2.png)
+
+Gibbiez is a solution designed to provide parents with the tools they need to easily monitor their children's nutritional health, empowering them to take proactive steps in preventing malnutrition and stunting.
 
 # Project Members
 
